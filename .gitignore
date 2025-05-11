@@ -1,0 +1,103 @@
+# Sistema Operativo
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+.vscode/
+.idea/
+*.pidb.meta
+*.sln
+*.userprefs
+*.csproj
+*.unityproj
+*.suo
+*.tmp
+*.user
+*.wpu
+*.wks
+*.log
+
+# TextMesh Pro
+[Tt]ext[Mm]esh[Pp]ro/
+
+# Auto-generated files
+*.vs/
+.vscode/
+.idea/
+Assembly-CSharp.csproj
+Assembly-CSharp-Editor.csproj
+*.csproj
+*.pidb
+*.booproj
+*.unitypackage
+
+# Compiled files
+*.dll
+*.exe
+*.pdb
+*.mdb
+*.so
+*.dylib
+*.lib
+*.a
+*.app
+
+# Builds
+Build/
+Builds/
+*.apk
+*.ipa
+*.obb
+*.app
+
+# Scriptable Objects e configurações locais
+*.asset
+*.prefs
+*.overrideController
+
+# Cache
+Cache/
+StreamingAssets/GoogleCache/
+StreamingAssets/GoogleCache.tmp/
+
+# Sistema de configuração
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/jsconfig.json
+
+# VS Code 
+.vscode/
+
+# Rider
+.idea/
+*.sln.iml
+.idea/*.iml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/libraries/
+.idea/modules.xml
+.idea/.idea/
+.idea/.name
+.idea/vcs.xml
+
+# JetBrains Rider 
+*.sln
+.idea/
+
+# Logs
+*.log
+*.stacktrace
+
+# Probuilder Auto-generated
+ProBuilder/
